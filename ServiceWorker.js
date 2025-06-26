@@ -1,9 +1,9 @@
 const cacheName = "Keano Moris-Schoravé constructie bouwer-0.1";
 const contentToCache = [
-    "Build/Web GL build2.loader.js",
-    "Build/Web GL build2.framework.js",
-    "Build/Web GL build2.data",
-    "Build/Web GL build2.wasm",
+    "Build/Web GL build3.loader.js",
+    "Build/Web GL build3.framework.js",
+    "Build/Web GL build3.data",
+    "Build/Web GL build3.wasm",
     "TemplateData/style.css"
 
 ];
